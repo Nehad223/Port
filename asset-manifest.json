@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Port/static/css/main.bac93eeb.css",
+    "main.js": "/Port/static/js/main.e7d57f09.js",
+    "static/js/787.39bb0775.chunk.js": "/Port/static/js/787.39bb0775.chunk.js",
+    "static/media/MealOrder.png": "/Port/static/media/MealOrder.902befff5d37b4120fd7.png",
+    "static/media/rest-countryies.png": "/Port/static/media/rest-countryies.43523739a3f340b26ed1.png",
+    "static/media/ToDo.png": "/Port/static/media/ToDo.0bec5cbcc77ee3f6caba.png",
+    "static/media/Nehad_Shretah_Light.jpg": "/Port/static/media/Nehad_Shretah_Light.b7a22acc827c5c3550f9.jpg",
+    "static/media/Nehad_Shretah_Dark.jpg": "/Port/static/media/Nehad_Shretah_Dark.e0de7a1a5102c4313a6d.jpg",
+    "static/media/Age_Caluclautor.jpg": "/Port/static/media/Age_Caluclautor.9e044ef777568db28109.jpg",
+    "static/media/TicTacToc.png": "/Port/static/media/TicTacToc.f46647a99c28ebe812a6.png",
+    "index.html": "/Port/index.html",
+    "main.bac93eeb.css.map": "/Port/static/css/main.bac93eeb.css.map",
+    "main.e7d57f09.js.map": "/Port/static/js/main.e7d57f09.js.map",
+    "787.39bb0775.chunk.js.map": "/Port/static/js/787.39bb0775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bac93eeb.css",
+    "static/js/main.e7d57f09.js"
+  ]
+}
