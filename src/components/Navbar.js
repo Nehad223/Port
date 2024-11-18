@@ -3,8 +3,8 @@ import { styles2 } from "./who";
 import { StyleSheet,css } from 'aphrodite';
 import { Navbar,Container,Nav,NavDropdown,Button,Form  } from "react-bootstrap";
 import { useNavigate } from "react-router-dom";
-import Ph_Dark from '../Nehad_Shretah_Dark.jpg';
-import Ph_Light from '../Nehad_Shretah_Light.jpg'
+import Ph_Dark from '../Assests/Nehad_Shretah_Dark.jpg';
+import Ph_Light from '../Assests/Nehad_Shretah_Light.jpg';
 import { useEffect, useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope,faMoon,faSun,faBars } from '@fortawesome/free-solid-svg-icons';

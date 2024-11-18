@@ -1,3 +1,4 @@
+
 a {
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
@@ -22,6 +23,11 @@ a {
 
     
 }
+.jj{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
 b{
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
@@ -29,7 +35,7 @@ b{
     color:#292828;
 }
 .More{
-    text-align: center;
+  
     font-family:  sans-serif;
     border: solid 1px #f53841;
     background-color:#f53841;
@@ -49,7 +55,7 @@ b{
     --big:#040404;
     --small:#828d95;
     --texto:#828d95;
-    --photos:url("./Nehad_Shretah_Light.jpg");
+    --photos:url("../src/Assests/Nehad_Shretah_Light.jpg");
     --home:#f53841;
     --service:#828d95;
     --projects:#828d95;
@@ -117,11 +123,14 @@ b{
     content: var(--photos);
     visibility:visible;   
 }
-.Age_PH{
+
+div .img{
+    width: 300px;
+    height: 150px;
+    max-width:100%;
     display: inline-block;
-    content:url('./Age_Caluclautor.jpg') ;
-    width: 50%;
-    
+    margin-bottom: 30px;
+    max-height: 100%;
 }
 #Sun:hover, #Moon:hover{
     color:#f53841 ;
@@ -156,7 +165,7 @@ border:0px;
     outline: none;
     border: none;
     -webkit-box-shadow: none;
-  box-shadow: none;
+    box-shadow: none;
 }
 #Facebook,#Env,#Linked,#Git{
     color: var(--scroll);

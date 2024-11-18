@@ -37,7 +37,7 @@ return(
           <b className={`Text_Small ${css(styles2.Text_Big)}`} >I am Nehad Shretah from Latakia, Syria ,  I study artificial intelligence in the  faculty  of  Information  Engineering, I am also a front-end developer and I am good at using html, css, bootstrap, js and react.js, I can develop and maintain front-ends, create responsive website designs,  implement website design for mobile and desktop devices, I also manage software workflows, fix bugs, and test websites for usability , you can see my projects :
           </b></div>
           </div>
-       <div className='row mt-4 justify-content-center  '>
+       <div className='row jj mt-4   '>
         <div className="col-5 ">
         <button className={`More col-xs-12 col-ms-12 col-5  ${css(styles2.Moro)}`} onClick={x} >My Projects</button>
        </div>
