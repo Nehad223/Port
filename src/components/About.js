@@ -39,7 +39,7 @@ return(
           </div>
        <div className='row jj mt-4   '>
         <div className="col-5 ">
-        <button className={`More col-xs-12 col-ms-12 col-5  ${css(styles2.Moro)}`} onClick={x} >My Projects</button>
+        <button className={`More col-xs-12 col-ms-12 col-5 mb-3  ${css(styles2.Moro)}`} onClick={x} >My Projects</button>
        </div>
        </div>
        </div>
