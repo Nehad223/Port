@@ -139,7 +139,7 @@ function  Navbaro() {
     <>
     <Navbar expand="lg" className=" Nav ">
       <Container center>
-        <a  className={`port col-2 ${css(styles2.Text_small)}`}>.Portfilio</a>
+        <a  className={`port col-2 ${css(styles2.Text_small)}`}>.Portfolio</a>
         <Navbar.Toggle id="toggle">
         <FontAwesomeIcon icon={faBars} aria-controls="navbarScroll" id="scroll"/>
           </Navbar.Toggle>

@@ -27,7 +27,7 @@ return(
         </div>
        </div>
        <div className='row mt-5'>
-        <div className={`text-center Text_Hav ${css(styles2.Text_Double)} `}> Have You Any Qestions?</div>
+        <div className={`text-center Text_Hav ${css(styles2.Text_Double)} `}> Have You Any Questions?</div>
        </div>
        <div className='row mt-4'>
         <div className={`text-center Text_Small ${css(styles2.Text_small)}`} > I'M AT YOUR SERVICE</div>

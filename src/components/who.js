@@ -168,7 +168,7 @@ const [text]= useTypewriter({
             </div>
             </div>
             <br/> <b className={`Text_Small  mt-5  ${css(styles2.Text_small)}`}  >I'm a Frontend Developer with  experience for 2 years </b>
-             <b className={`Text_Small mb-5  ${css(styles2.Text_small)}`} >in developeing and createing website with React.Js </b>
+             <b className={`Text_Small mb-5  ${css(styles2.Text_small)}`} >in developing and creating website with React.Js </b>
               <br/>
               <div className={`d-flex justify-content-center     justify-content-md-start ms-xl-5 ms-lg-5  ms-md-5  ms-md-0    `}>
               <button   className={`More  mt-4  ms-xl-5 ms-lg-5 ms-md-5 ms-md-0  ${css(styles2.Moro)} mb-2 `} onClick={x}>More About Me</button>
